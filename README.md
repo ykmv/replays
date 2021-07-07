@@ -4,6 +4,9 @@ Here are my replays.
 - Seihou Bansiryuu (C67)
   - [Hirano.S; Normal Stage4](./bsr_44.rep)
 
+- Elegant Impermanence of Sakura
+  - [Reimu & Yukari; Normal 1CC](./slot2.rep)
+
 - Touhou 6
   - [MarisaA; 1CC Normal](th6_01.rpy)
   - [MarisaB; 1CC Hard](th6_03.rpy)
