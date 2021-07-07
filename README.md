@@ -16,6 +16,7 @@ Here are my replays.
   - [ReimuB; 1CC Normal](th10_02.rpy)
   - [ReimuC; 1CC Normal](th10_01.rpy)
   - [MarisaA; 1CC Normal](th10_04.rpy)
+  - [MarisaB; 1CC Hard](th10_05.rpy)
 - Touhou 11
   - [ReimuA; 1CC Normal](th11_03.rpy)
 - Touhou 12
