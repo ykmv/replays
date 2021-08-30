@@ -4,6 +4,9 @@ Here are my replays.
 - Seihou Bansiryuu (C67)
   - [Hirano.S; Normal Stage4](./bsr_44.rep)
 
+- 五月雨 (Samidare)
+  - [1CC 30_780_636](./replay001.dat)
+
 - Elegant Impermanence of Sakura
   - [Reimu & Yukari; Normal 1CC](./slot2.rep)
 
