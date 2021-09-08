@@ -5,7 +5,7 @@ Here are my replays.
   - [Hirano.S; Normal Stage4](./bsr_44.rep)
 
 - 五月雨 (Samidare)
-  - [1CC 30_780_636](./replay001.dat)
+  - [1CC 30,780,636](./replay001.dat)
 
 - Elegant Impermanence of Sakura
   - [Reimu & Yukari; Normal 1CC](./slot2.rep)
@@ -14,9 +14,10 @@ Here are my replays.
   - [MarisaA; 1CC Normal](th6_01.rpy)
   - [MarisaB; 1CC Hard](th6_03.rpy)
 - Touhou 7
-  - [MarisaB; 1CC Normal No Bombs](th7_06.rpy)
   - [MarisaB; 1CC Normal](th7_01.rpy)
   - [MarisaB; 1CC Hard](th7_09.rpy)
+- Touhou 8
+  - [Remilia; 1CC Normal](th8_01.rpy)
 - Touhou 10
   - [ReimuA; 1CC Normal](th10_03.rpy)
   - [ReimuB; 1CC Normal](th10_02.rpy)
