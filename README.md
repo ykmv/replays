@@ -36,3 +36,5 @@ Here are my replays.
 - Touhou 13
   - [Marisa; 1CC Normal](th13_02.rpy)
   - [Marisa; 1CC Hard](th13_03.rpy)
+- Touhou 15
+  - [Reisen; 1CC Normal](th15_02.rpy)
