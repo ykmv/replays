@@ -10,6 +10,9 @@ Here are my replays.
 - Elegant Impermanence of Sakura
   - [Reimu & Yukari; Normal 1CC](./slot2.rep)
 
+- Blue Devil in the Belvedere
+  - [Sakuya; Lunatic 1CC](./slot3.rep)
+
 - Touhou 6
   - [MarisaA; 1CC Normal](th6_01.rpy)
   - [MarisaB; 1CC Hard](th6_03.rpy)
